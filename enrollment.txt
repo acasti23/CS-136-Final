@@ -1,0 +1,7 @@
+1,2,1,2019,Summer,B
+2,4,1,2019,Spring,F
+3,2,2,1903,Spring,B
+4,3,3,2202,Spring,B
+5,4,3,2019,Summer,D
+6,5,2,345,Summer,B
+7,1,2,2019,Summer,A

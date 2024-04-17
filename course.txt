@@ -1,0 +1,6 @@
+1,cs101,Intro to Computer Science,CompSci,Patil
+2,cis101,Intro to Computer Information System,CompSci,Patil
+3,cis210,Intro to Networking,CompSci,patil
+4,cis120,Intro to DataBase,CompSci,patil
+5,cs112,Javascript,CompSci,patil
+6,cs113,Java Programming,CompSci,patil
